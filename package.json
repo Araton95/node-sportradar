@@ -13,15 +13,15 @@
     "api"
   ],
   "author": "FantasyHub",
-  "engines" : {
-      "node": "*"
+  "engines": {
+    "node": "*"
   },
-  "homepage" : "https://github.com/FantasyHub/node-sportsdata",
+  "homepage": "https://github.com/FantasyHub/node-sportsdata",
   "dependencies": {
-    "request" : ">= 0.0.1",
-    "xml2js" : ">= 0.0.1"
+    "request": ">= 0.0.1",
+    "xml2js": ">= 0.0.1"
   },
   "devDependencies": {
-      "nodeunit": ">= 0.0.1"
+    "nodeunit": ">= 0.0.1"
   }
 }
